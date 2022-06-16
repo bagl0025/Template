@@ -1,5 +1,4 @@
-# E-Commerce Back End
-
+# Template
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -22,7 +21,7 @@ E-Commerce Back End is and example of a basic back end for an e-commerce site. T
 ## Installation
 
 - Install node.js
-- download the repo: https://github.com/bagl0025/E-commerce-Back-End.git
+- download the repo:
 - The dependencies can be installed by running `npm install`
 - You will need to create a .env file in the root folder and update the MySQL user and password. An example of the .env file is provided in the code block below.
 ```
@@ -39,7 +38,7 @@ DB_PASSWORD='<insert password>'
 There is no front end for this application so you should use Insomnia, Postman, or an API client of your choice to test the routes and functionality. The databse contains the following tables:
 ```    
 +------------------------+   
-| Tables_in_ecommerce_db |   
+| Tables example_db |   
 +------------------------+   
 | category               |   
 | product                |   
@@ -51,12 +50,7 @@ Using an API client you can view, create, edit, and delete items from the tables
 
 ### E-Commerce API routes in Insomnia
 
-<img src="./assets/ecommerce-screen.png" alt="ecommerce screenshot" width="600"/>
-
-### Link to demo video
-This video loads from Google Drive. It can be downloaded from the Github repo's assets folder.
-
-[Demo Video](https://drive.google.com/file/d/168EKwEu2aXdTZIB1WwmV_YXEZqGmeXIF/view?usp=sharing)
+<img src="./assets/.png" alt="screenshot" width="600"/>
 
 ## License
 
@@ -72,7 +66,7 @@ Contact author at bagley@umn.edu for questions or to report issues.
 
 ## GitHub
 
-https://github.com/bagl0025/E-Commerce-Back-End
+https://github.com/bagl0025/
 
 ```
 
